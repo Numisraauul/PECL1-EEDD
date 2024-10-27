@@ -14,7 +14,7 @@ Imagen Cola::dequeue() {
 
 }
 
-bool Cola::isEmpty() const {    //hola
+bool Cola::isEmpty() const {    
 
     return elementos.empty();
 
